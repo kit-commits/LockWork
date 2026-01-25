@@ -14,6 +14,7 @@
 		E17FC71E2F269367000D0F45 /* LockWorkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC71D2F269367000D0F45 /* LockWorkTests.swift */; };
 		E17FC7282F269367000D0F45 /* LockWorkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7272F269367000D0F45 /* LockWorkUITests.swift */; };
 		E17FC72A2F269367000D0F45 /* LockWorkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7292F269367000D0F45 /* LockWorkUITestsLaunchTests.swift */; };
+		E17FC7372F26AB76000D0F45 /* PhoneVerificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7362F26AB76000D0F45 /* PhoneVerificationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E17FC7232F269367000D0F45 /* LockWorkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LockWorkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E17FC7272F269367000D0F45 /* LockWorkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockWorkUITests.swift; sourceTree = "<group>"; };
 		E17FC7292F269367000D0F45 /* LockWorkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockWorkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E17FC7362F26AB76000D0F45 /* PhoneVerificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneVerificationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				E17FC70C2F269364000D0F45 /* LockWorkApp.swift */,
 				E17FC70E2F269364000D0F45 /* ContentView.swift */,
+				E17FC7362F26AB76000D0F45 /* PhoneVerificationView.swift */,
 				E17FC7102F269367000D0F45 /* Assets.xcassets */,
 				E17FC7122F269367000D0F45 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				E17FC70F2F269364000D0F45 /* ContentView.swift in Sources */,
 				E17FC70D2F269364000D0F45 /* LockWorkApp.swift in Sources */,
+				E17FC7372F26AB76000D0F45 /* PhoneVerificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
