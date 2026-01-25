@@ -15,6 +15,10 @@
 		E17FC7282F269367000D0F45 /* LockWorkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7272F269367000D0F45 /* LockWorkUITests.swift */; };
 		E17FC72A2F269367000D0F45 /* LockWorkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7292F269367000D0F45 /* LockWorkUITestsLaunchTests.swift */; };
 		E17FC7372F26AB76000D0F45 /* PhoneVerificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7362F26AB76000D0F45 /* PhoneVerificationView.swift */; };
+		E17FC7392F26B462000D0F45 /* VerificationSuccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7382F26B462000D0F45 /* VerificationSuccess.swift */; };
+		E17FC73B2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC73A2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift */; };
+		E17FC73D2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC73C2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift */; };
+		E17FC73F2F26B804000D0F45 /* ProfileTrustSignalsThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC73E2F26B804000D0F45 /* ProfileTrustSignalsThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +50,10 @@
 		E17FC7272F269367000D0F45 /* LockWorkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockWorkUITests.swift; sourceTree = "<group>"; };
 		E17FC7292F269367000D0F45 /* LockWorkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockWorkUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E17FC7362F26AB76000D0F45 /* PhoneVerificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneVerificationView.swift; sourceTree = "<group>"; };
+		E17FC7382F26B462000D0F45 /* VerificationSuccess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerificationSuccess.swift; sourceTree = "<group>"; };
+		E17FC73A2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTrustSignalsOne.swift; sourceTree = "<group>"; };
+		E17FC73C2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTrustSignalsTwo.swift; sourceTree = "<group>"; };
+		E17FC73E2F26B804000D0F45 /* ProfileTrustSignalsThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTrustSignalsThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +107,10 @@
 				E17FC70C2F269364000D0F45 /* LockWorkApp.swift */,
 				E17FC70E2F269364000D0F45 /* ContentView.swift */,
 				E17FC7362F26AB76000D0F45 /* PhoneVerificationView.swift */,
+				E17FC7382F26B462000D0F45 /* VerificationSuccess.swift */,
+				E17FC73A2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift */,
+				E17FC73C2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift */,
+				E17FC73E2F26B804000D0F45 /* ProfileTrustSignalsThree.swift */,
 				E17FC7102F269367000D0F45 /* Assets.xcassets */,
 				E17FC7122F269367000D0F45 /* Preview Content */,
 			);
@@ -260,9 +272,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E17FC7392F26B462000D0F45 /* VerificationSuccess.swift in Sources */,
 				E17FC70F2F269364000D0F45 /* ContentView.swift in Sources */,
 				E17FC70D2F269364000D0F45 /* LockWorkApp.swift in Sources */,
+				E17FC73D2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift in Sources */,
+				E17FC73B2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift in Sources */,
 				E17FC7372F26AB76000D0F45 /* PhoneVerificationView.swift in Sources */,
+				E17FC73F2F26B804000D0F45 /* ProfileTrustSignalsThree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
