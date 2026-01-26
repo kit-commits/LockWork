@@ -19,6 +19,15 @@
 		E17FC73B2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC73A2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift */; };
 		E17FC73D2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC73C2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift */; };
 		E17FC73F2F26B804000D0F45 /* ProfileTrustSignalsThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC73E2F26B804000D0F45 /* ProfileTrustSignalsThree.swift */; };
+		E17FC7412F27D57F000D0F45 /* DiscoveryAndMatching.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7402F27D57F000D0F45 /* DiscoveryAndMatching.swift */; };
+		E17FC7432F27D9FF000D0F45 /* DiscoveryAndMatchingLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7422F27D9FF000D0F45 /* DiscoveryAndMatchingLocation.swift */; };
+		E17FC7452F27DA33000D0F45 /* DiscoveryAndMatchingResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7442F27DA33000D0F45 /* DiscoveryAndMatchingResults.swift */; };
+		E17FC7472F27DA62000D0F45 /* InteractionAndSchedulingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7462F27DA62000D0F45 /* InteractionAndSchedulingPage.swift */; };
+		E17FC7492F27DA8D000D0F45 /* InteractionAndSchedulingTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7482F27DA8D000D0F45 /* InteractionAndSchedulingTwo.swift */; };
+		E17FC74B2F27DAAA000D0F45 /* InteractionAndSchedulingThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC74A2F27DAAA000D0F45 /* InteractionAndSchedulingThree.swift */; };
+		E17FC74D2F27DAF5000D0F45 /* MessagingPartOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC74C2F27DAF5000D0F45 /* MessagingPartOne.swift */; };
+		E17FC7502F27FC53000D0F45 /* MessagingChatHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC74F2F27FC53000D0F45 /* MessagingChatHistory.swift */; };
+		E17FC7532F281136000D0F45 /* TitleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7522F281136000D0F45 /* TitleRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +63,15 @@
 		E17FC73A2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTrustSignalsOne.swift; sourceTree = "<group>"; };
 		E17FC73C2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTrustSignalsTwo.swift; sourceTree = "<group>"; };
 		E17FC73E2F26B804000D0F45 /* ProfileTrustSignalsThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileTrustSignalsThree.swift; sourceTree = "<group>"; };
+		E17FC7402F27D57F000D0F45 /* DiscoveryAndMatching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoveryAndMatching.swift; sourceTree = "<group>"; };
+		E17FC7422F27D9FF000D0F45 /* DiscoveryAndMatchingLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoveryAndMatchingLocation.swift; sourceTree = "<group>"; };
+		E17FC7442F27DA33000D0F45 /* DiscoveryAndMatchingResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoveryAndMatchingResults.swift; sourceTree = "<group>"; };
+		E17FC7462F27DA62000D0F45 /* InteractionAndSchedulingPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractionAndSchedulingPage.swift; sourceTree = "<group>"; };
+		E17FC7482F27DA8D000D0F45 /* InteractionAndSchedulingTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractionAndSchedulingTwo.swift; sourceTree = "<group>"; };
+		E17FC74A2F27DAAA000D0F45 /* InteractionAndSchedulingThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractionAndSchedulingThree.swift; sourceTree = "<group>"; };
+		E17FC74C2F27DAF5000D0F45 /* MessagingPartOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagingPartOne.swift; sourceTree = "<group>"; };
+		E17FC74F2F27FC53000D0F45 /* MessagingChatHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagingChatHistory.swift; sourceTree = "<group>"; };
+		E17FC7522F281136000D0F45 /* TitleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +129,15 @@
 				E17FC73A2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift */,
 				E17FC73C2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift */,
 				E17FC73E2F26B804000D0F45 /* ProfileTrustSignalsThree.swift */,
+				E17FC7402F27D57F000D0F45 /* DiscoveryAndMatching.swift */,
+				E17FC7422F27D9FF000D0F45 /* DiscoveryAndMatchingLocation.swift */,
+				E17FC7442F27DA33000D0F45 /* DiscoveryAndMatchingResults.swift */,
+				E17FC7462F27DA62000D0F45 /* InteractionAndSchedulingPage.swift */,
+				E17FC7482F27DA8D000D0F45 /* InteractionAndSchedulingTwo.swift */,
+				E17FC74A2F27DAAA000D0F45 /* InteractionAndSchedulingThree.swift */,
+				E17FC74C2F27DAF5000D0F45 /* MessagingPartOne.swift */,
+				E17FC74F2F27FC53000D0F45 /* MessagingChatHistory.swift */,
+				E17FC7512F280F76000D0F45 /* Components */,
 				E17FC7102F269367000D0F45 /* Assets.xcassets */,
 				E17FC7122F269367000D0F45 /* Preview Content */,
 			);
@@ -120,6 +147,7 @@
 		E17FC7122F269367000D0F45 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				E17FC74E2F27E902000D0F45 /* New Group */,
 				E17FC7132F269367000D0F45 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -140,6 +168,21 @@
 				E17FC7292F269367000D0F45 /* LockWorkUITestsLaunchTests.swift */,
 			);
 			path = LockWorkUITests;
+			sourceTree = "<group>";
+		};
+		E17FC74E2F27E902000D0F45 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		E17FC7512F280F76000D0F45 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				E17FC7522F281136000D0F45 /* TitleRow.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -274,11 +317,20 @@
 			files = (
 				E17FC7392F26B462000D0F45 /* VerificationSuccess.swift in Sources */,
 				E17FC70F2F269364000D0F45 /* ContentView.swift in Sources */,
+				E17FC74B2F27DAAA000D0F45 /* InteractionAndSchedulingThree.swift in Sources */,
+				E17FC7532F281136000D0F45 /* TitleRow.swift in Sources */,
+				E17FC7472F27DA62000D0F45 /* InteractionAndSchedulingPage.swift in Sources */,
 				E17FC70D2F269364000D0F45 /* LockWorkApp.swift in Sources */,
+				E17FC7412F27D57F000D0F45 /* DiscoveryAndMatching.swift in Sources */,
+				E17FC7492F27DA8D000D0F45 /* InteractionAndSchedulingTwo.swift in Sources */,
+				E17FC7452F27DA33000D0F45 /* DiscoveryAndMatchingResults.swift in Sources */,
 				E17FC73D2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift in Sources */,
 				E17FC73B2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift in Sources */,
+				E17FC74D2F27DAF5000D0F45 /* MessagingPartOne.swift in Sources */,
 				E17FC7372F26AB76000D0F45 /* PhoneVerificationView.swift in Sources */,
 				E17FC73F2F26B804000D0F45 /* ProfileTrustSignalsThree.swift in Sources */,
+				E17FC7502F27FC53000D0F45 /* MessagingChatHistory.swift in Sources */,
+				E17FC7432F27D9FF000D0F45 /* DiscoveryAndMatchingLocation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
