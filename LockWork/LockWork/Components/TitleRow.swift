@@ -40,6 +40,7 @@ struct TitleRow: View {
                 .cornerRadius(50)
             
         }
+        .padding()
     }
 }
 

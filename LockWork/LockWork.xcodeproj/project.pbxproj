@@ -28,6 +28,9 @@
 		E17FC74D2F27DAF5000D0F45 /* MessagingPartOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC74C2F27DAF5000D0F45 /* MessagingPartOne.swift */; };
 		E17FC7502F27FC53000D0F45 /* MessagingChatHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC74F2F27FC53000D0F45 /* MessagingChatHistory.swift */; };
 		E17FC7532F281136000D0F45 /* TitleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7522F281136000D0F45 /* TitleRow.swift */; };
+		E17FC7562F2A6C39000D0F45 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7552F2A6C39000D0F45 /* Message.swift */; };
+		E17FC7582F2A6F7C000D0F45 /* MessageBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7572F2A6F7C000D0F45 /* MessageBubble.swift */; };
+		E17FC75A2F2AE16A000D0F45 /* MessageField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FC7592F2AE16A000D0F45 /* MessageField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +75,9 @@
 		E17FC74C2F27DAF5000D0F45 /* MessagingPartOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagingPartOne.swift; sourceTree = "<group>"; };
 		E17FC74F2F27FC53000D0F45 /* MessagingChatHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagingChatHistory.swift; sourceTree = "<group>"; };
 		E17FC7522F281136000D0F45 /* TitleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleRow.swift; sourceTree = "<group>"; };
+		E17FC7552F2A6C39000D0F45 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		E17FC7572F2A6F7C000D0F45 /* MessageBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageBubble.swift; sourceTree = "<group>"; };
+		E17FC7592F2AE16A000D0F45 /* MessageField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +143,7 @@
 				E17FC74A2F27DAAA000D0F45 /* InteractionAndSchedulingThree.swift */,
 				E17FC74C2F27DAF5000D0F45 /* MessagingPartOne.swift */,
 				E17FC74F2F27FC53000D0F45 /* MessagingChatHistory.swift */,
+				E17FC7542F2A6BB5000D0F45 /* Models */,
 				E17FC7512F280F76000D0F45 /* Components */,
 				E17FC7102F269367000D0F45 /* Assets.xcassets */,
 				E17FC7122F269367000D0F45 /* Preview Content */,
@@ -181,8 +188,18 @@
 			isa = PBXGroup;
 			children = (
 				E17FC7522F281136000D0F45 /* TitleRow.swift */,
+				E17FC7572F2A6F7C000D0F45 /* MessageBubble.swift */,
+				E17FC7592F2AE16A000D0F45 /* MessageField.swift */,
 			);
 			path = Components;
+			sourceTree = "<group>";
+		};
+		E17FC7542F2A6BB5000D0F45 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E17FC7552F2A6C39000D0F45 /* Message.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -318,15 +335,18 @@
 				E17FC7392F26B462000D0F45 /* VerificationSuccess.swift in Sources */,
 				E17FC70F2F269364000D0F45 /* ContentView.swift in Sources */,
 				E17FC74B2F27DAAA000D0F45 /* InteractionAndSchedulingThree.swift in Sources */,
+				E17FC7562F2A6C39000D0F45 /* Message.swift in Sources */,
 				E17FC7532F281136000D0F45 /* TitleRow.swift in Sources */,
 				E17FC7472F27DA62000D0F45 /* InteractionAndSchedulingPage.swift in Sources */,
 				E17FC70D2F269364000D0F45 /* LockWorkApp.swift in Sources */,
 				E17FC7412F27D57F000D0F45 /* DiscoveryAndMatching.swift in Sources */,
 				E17FC7492F27DA8D000D0F45 /* InteractionAndSchedulingTwo.swift in Sources */,
+				E17FC75A2F2AE16A000D0F45 /* MessageField.swift in Sources */,
 				E17FC7452F27DA33000D0F45 /* DiscoveryAndMatchingResults.swift in Sources */,
 				E17FC73D2F26B76D000D0F45 /* ProfileTrustSignalsTwo.swift in Sources */,
 				E17FC73B2F26B5A9000D0F45 /* ProfileTrustSignalsOne.swift in Sources */,
 				E17FC74D2F27DAF5000D0F45 /* MessagingPartOne.swift in Sources */,
+				E17FC7582F2A6F7C000D0F45 /* MessageBubble.swift in Sources */,
 				E17FC7372F26AB76000D0F45 /* PhoneVerificationView.swift in Sources */,
 				E17FC73F2F26B804000D0F45 /* ProfileTrustSignalsThree.swift in Sources */,
 				E17FC7502F27FC53000D0F45 /* MessagingChatHistory.swift in Sources */,
